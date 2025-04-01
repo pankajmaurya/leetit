@@ -1,0 +1,25 @@
+Core sequence:
+==============
+
+Arrays
+ 
+Linked lists, Stack and Queues
+
+Maps (Dictionary)
+
+Binary Tree, BST
+
+Recursion
+
+Graphs
+
+Advanced:
+=========
+2D Arrays, 2 pointer scans
+Arithmetic
+Bit operation
+Heaps
+Backtracking
+Dynamic Programming
+Greedy Algorithms
+
