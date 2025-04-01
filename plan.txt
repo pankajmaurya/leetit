@@ -23,3 +23,22 @@ Backtracking
 Dynamic Programming
 Greedy Algorithms
 
+For mid level companies
+========================
+
+Designing an in-memory database to handle transactions
+
+Implementing a key-value store
+
+Designing a query engine
+
+
+Behavioural stuff for senior engineers
+=======================================
+
+We've seen technically brilliant candidates fail interviews or get down-leveled unnecessarily because they couldn't effectively communicate their impact, describe how they influenced cross-functional teams, or demonstrate self-awareness about previous challenges. Behavioral preparation isn't a checkbox; it significantly impacts hiring decisions, especially at senior levels and above.
+
+What interviews are about which is different from a day job:
+=============================================================
+
+The performance aspect of interviewing – thinking aloud, handling pressure, communicating clearly while solving problems – requires deliberate practice in conditions that mirror actual interviews.
